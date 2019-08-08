@@ -1,0 +1,21 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+
+@import "megadin/main";
+@import "~font-awesome/scss/font-awesome.scss";
+@import "~select2/src/scss/core.scss";
+@import "~datatables.net-dt/css/jquery.dataTables.css";
+@import "~bootstrap-datepicker/dist/css/bootstrap-datepicker3.min.css";
+@import "~bootstrap-timepicker/css/bootstrap-timepicker.min.css";
+@import "admin_style";
+
