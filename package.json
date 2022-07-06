@@ -32,7 +32,7 @@
         "jquery.nicescroll": "^3.7.6",
         "materialize-css": "^1.0.0",
         "moment": "^2.24.0",
-        "select2": "^4.0.6-rc.1",
+        "select2": "^4.0.6",
         "spectre.css": "^0.5.8",
         "v-calendar": "^0.9.7",
         "vee-validate": "^2.2.0",
