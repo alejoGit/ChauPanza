@@ -31,7 +31,7 @@
         "jquery-validation": "^1.19.0",
         "jquery.nicescroll": "^3.7.6",
         "materialize-css": "^1.0.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "select2": "^4.0.6-rc.1",
         "spectre.css": "^0.5.8",
         "v-calendar": "^0.9.7",
